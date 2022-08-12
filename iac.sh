@@ -40,11 +40,3 @@ chmod 770 /ven
 chmod 770 /sec 
 
 echo "Usuários , diretórios e permissões criadas..."
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-D
